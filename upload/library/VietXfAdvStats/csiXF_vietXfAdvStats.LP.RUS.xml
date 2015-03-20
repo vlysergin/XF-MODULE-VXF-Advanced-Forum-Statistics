@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright © 2015 CYBERSPACE Industries
+  Contacts: http://cyberspace.industries/
+  License: LICENSE.ENG.txt / LICENSE.RUS.txt
+-->
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="ru-RU" text_direction="LTR" addon_id="VietXfAdvStats">
+  <phrase title="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Расширенная статистика]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_hot" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Популярные темы]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_latest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые темы]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_latest_custom_forum" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые темы (custom)]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_random" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Случайные темы]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_recent" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые сообщения]]></phrase>
+  <phrase title="VietXfAdvStats_section_threads_recent_custom_forum" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые сообщения (custom)]]></phrase>
+  <phrase title="VietXfAdvStats_section_title" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Заголовок]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_new" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_earned_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Earned In Day]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_liked" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Симпатии]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_poorest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Poorest]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_posters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Активные]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_richest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Richest]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_spent_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Spent In Day]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_starters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Starters]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_trophy_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Trophy Points]]></phrase>
+</language>
