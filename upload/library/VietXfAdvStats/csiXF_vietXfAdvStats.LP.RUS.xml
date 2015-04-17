@@ -14,12 +14,12 @@
   <phrase title="VietXfAdvStats_section_threads_recent_custom_forum" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые сообщения (custom)]]></phrase>
   <phrase title="VietXfAdvStats_section_title" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Заголовок]]></phrase>
   <phrase title="VietXfAdvStats_section_users_new" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Новые]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_earned_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Earned In Day]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_earned_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ за день]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_liked" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Симпатии]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_poorest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Poorest]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_poorest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ бедных]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_posters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Активные]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_richest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Richest]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_spent_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Spent In Day]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_starters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Starters]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_trophy_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Trophy Points]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_richest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ богатых]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_spent_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ отданых за день]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_starters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ ТС]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_trophy_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ трофеев]]></phrase>
 </language>
