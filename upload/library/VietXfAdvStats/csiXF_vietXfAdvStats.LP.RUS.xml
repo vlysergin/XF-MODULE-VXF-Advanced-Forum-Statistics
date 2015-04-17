@@ -5,18 +5,18 @@
   License: LICENSE.ENG.txt / LICENSE.RUS.txt
 -->
 <language title="Russian (RU)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="ru-RU" text_direction="LTR" addon_id="VietXfAdvStats">
-  <phrase title="option_Excep_id" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Exclude Forums]]></phrase>
-  <phrase title="option_Excep_id_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Forums excluded from stats List IDs, separate with commas]]></phrase>
+  <phrase title="option_Excep_id" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Исключить Форум]]></phrase>
+  <phrase title="option_Excep_id_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Форумы которые исключены из статистики разделяются знаком ","]]></phrase>
   <phrase title="option_group_VietXfAdvStats" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF/MODULE) VXF - Advanced Forum Statistics]]></phrase>
   <phrase title="option_group_VietXfAdvStats_description" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_showPrefix" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display Thread Prefix]]></phrase>
-  <phrase title="option_showPrefix_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Enable/disable thread prefix]]></phrase>
-  <phrase title="option_showTooltip" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display Tooltip]]></phrase>
-  <phrase title="option_showTooltip_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[enable/disable Tooltip Preview]]></phrase>
-  <phrase title="option_VietXfAdvStats_groups" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display for Usergroup]]></phrase>
-  <phrase title="option_VietXfAdvStats_groups_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Select which groups can see statistics]]></phrase>
-  <phrase title="option_VietXfAdvStats_hotThreadCutOff" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Hot Thread Cut Off]]></phrase>
-  <phrase title="option_VietXfAdvStats_hotThreadCutOff_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Enter the number of days to cut off the list of hot threads. Any threads which are older that this number of days (calculate by the first post date) won't make it to the hot threads list no matter how many views conducted. If you want to include all threads, set this option to 0 (zero), not recommended.]]></phrase>
+  <phrase title="option_showPrefix" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Показать префикс темы]]></phrase>
+  <phrase title="option_showPrefix_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Включить/Выключить префикс тем]]></phrase>
+  <phrase title="option_showTooltip" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Показывать подсказку]]></phrase>
+  <phrase title="option_showTooltip_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Включить/Выключить подсказку]]></phrase>
+  <phrase title="option_VietXfAdvStats_groups" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Показывать группы пользователей]]></phrase>
+  <phrase title="option_VietXfAdvStats_groups_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Выберите какие группы пользователей могут видеть статистику]]></phrase>
+  <phrase title="option_VietXfAdvStats_hotThreadCutOff" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Исключение горячий темы]]></phrase>
+  <phrase title="option_VietXfAdvStats_hotThreadCutOff_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Введите количество дней, чтобы исключить список горячих тем. И темы, которые старше, заданых дней (начиная с даты создания темы) не включит ее в список горячих тем независимо от того, сколько произошло просмотров. Если вы хотите включить все темы, установить эту опцию в 0 (ноль), не рекомендуется.]]></phrase>
   <phrase title="option_VietXfAdvStats_itemLimitsReal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Item Limits]]></phrase>
   <phrase title="option_VietXfAdvStats_itemLimitsReal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Specify the list of item limits for member to choose. The first one will be the default value. Don't worry about the order, they will be auto-arranged.]]></phrase>
   <phrase title="option_VietXfAdvStats_portal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display on Portal (Xenporta)]]></phrase>
