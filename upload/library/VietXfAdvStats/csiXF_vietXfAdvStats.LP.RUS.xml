@@ -5,38 +5,38 @@
   License: LICENSE.ENG.txt / LICENSE.RUS.txt
 -->
 <language title="Russian (RU)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="ru-RU" text_direction="LTR" addon_id="VietXfAdvStats">
-  <phrase title="option_Excep_id" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Exclude Forums]]></phrase>
-  <phrase title="option_Excep_id_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Forums excluded from stats List IDs, separate with commas]]></phrase>
-  <phrase title="option_group_VietXfAdvStats" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF/MODULE) VXF - Advanced Forum Statistics]]></phrase>
+  <phrase title="option_Excep_id" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Исключить форум]]></phrase>
+  <phrase title="option_Excep_id_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Форумы исключенные из статистики отделяются знаком ","]]></phrase>
+  <phrase title="option_group_VietXfAdvStats" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF/MODULE) VXF - Расширенная статистика форума]]></phrase>
   <phrase title="option_group_VietXfAdvStats_description" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_showPrefix" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display Thread Prefix]]></phrase>
-  <phrase title="option_showPrefix_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Enable/disable thread prefix]]></phrase>
-  <phrase title="option_showTooltip" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display Tooltip]]></phrase>
-  <phrase title="option_showTooltip_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[enable/disable Tooltip Preview]]></phrase>
-  <phrase title="option_VietXfAdvStats_groups" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display for Usergroup]]></phrase>
-  <phrase title="option_VietXfAdvStats_groups_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Select which groups can see statistics]]></phrase>
+  <phrase title="option_showPrefix" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Отображать префикс темы]]></phrase>
+  <phrase title="option_showPrefix_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Включить/Выключить префикс для тем]]></phrase>
+  <phrase title="option_showTooltip" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Показывать подсказки]]></phrase>
+  <phrase title="option_showTooltip_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Включить/Выключить подсказки]]></phrase>
+  <phrase title="option_VietXfAdvStats_groups" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Отображать для групп]]></phrase>
+  <phrase title="option_VietXfAdvStats_groups_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Выберите, какие группы пользователей могут видеть статистику]]></phrase>
   <phrase title="option_VietXfAdvStats_hotThreadCutOff" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Hot Thread Cut Off]]></phrase>
   <phrase title="option_VietXfAdvStats_hotThreadCutOff_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Enter the number of days to cut off the list of hot threads. Any threads which are older that this number of days (calculate by the first post date) won't make it to the hot threads list no matter how many views conducted. If you want to include all threads, set this option to 0 (zero), not recommended.]]></phrase>
-  <phrase title="option_VietXfAdvStats_itemLimitsReal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Item Limits]]></phrase>
-  <phrase title="option_VietXfAdvStats_itemLimitsReal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Specify the list of item limits for member to choose. The first one will be the default value. Don't worry about the order, they will be auto-arranged.]]></phrase>
-  <phrase title="option_VietXfAdvStats_portal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Display on Portal (Xenporta)]]></phrase>
-  <phrase title="option_VietXfAdvStats_portal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Enable/disable display forum statistics for Xenporta]]></phrase>
-  <phrase title="option_VietXfAdvStats_position" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Position]]></phrase>
-  <phrase title="option_VietXfAdvStats_position_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Select the position you want to display VietXF - Advanced Forum Statistics. If you want to display in other position or in different pages from forum_list, you will have to select Other position and edit the template yourself adding this snippet: &lt;xen:hook name="vietxf_advanced_forum_statistics" /&gt;]]></phrase>
-  <phrase title="option_VietXfAdvStats_sections1st" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Sections (#1)]]></phrase>
-  <phrase title="option_VietXfAdvStats_sections1st_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Select the sections for the first block.]]></phrase>
-  <phrase title="option_VietXfAdvStats_sections2nd" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Sections (#2)]]></phrase>
-  <phrase title="option_VietXfAdvStats_sections2nd_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Select the sections for the second block.]]></phrase>
-  <phrase title="option_VietXfAdvStats_updateIntervalsReal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Update Intervals]]></phrase>
+  <phrase title="option_VietXfAdvStats_itemLimitsReal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Лимит на отображение тем]]></phrase>
+  <phrase title="option_VietXfAdvStats_itemLimitsReal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Распределите список лимита тем для пользователей. Для первого будет стандартное количество. Не волнуйтесь за порядок, он будет авто-распределен.]]></phrase>
+  <phrase title="option_VietXfAdvStats_portal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Отображать на портале (Xenporta)]]></phrase>
+  <phrase title="option_VietXfAdvStats_portal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Включить/Выключить отображение статистики для портала Xenporta]]></phrase>
+  <phrase title="option_VietXfAdvStats_position" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Позиция]]></phrase>
+  <phrase title="option_VietXfAdvStats_position_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Выберите позицию для отображения VXF - Расширенная статистика форума. Если вы хотите отображать список форумов в другом порядке, вам надо выбрать "Другое Положение" и редактировать самим шаблон: &lt;xen:hook name="vietxf_advanced_forum_statistics" /&gt;]]></phrase>
+  <phrase title="option_VietXfAdvStats_sections1st" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Раздел (#1)]]></phrase>
+  <phrase title="option_VietXfAdvStats_sections1st_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Выберите раздел для первого блока.]]></phrase>
+  <phrase title="option_VietXfAdvStats_sections2nd" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Раздел (#2)]]></phrase>
+  <phrase title="option_VietXfAdvStats_sections2nd_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Выберите раздел для второго блока.]]></phrase>
+  <phrase title="option_VietXfAdvStats_updateIntervalsReal" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Интервалы обновления]]></phrase>
   <phrase title="option_VietXfAdvStats_updateIntervalsReal_explain" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Specify the list of update intervals for member to choose. The first one will be the default value. Don't worry about the order, they will be auto-arranged.]]></phrase>
-  <phrase title="style_property_group_VietXfAdvStats_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF/MODULE) VietXF - Advanced Forum Statistics]]></phrase>
+  <phrase title="style_property_group_VietXfAdvStats_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF/MODULE) VietXF - Расширенная статистика форума]]></phrase>
   <phrase title="style_property_group_VietXfAdvStats_master_desc" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_property_VietXfAdvStats_Block1stWidth_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_property_VietXfAdvStats_Block1stWidth_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[First Block's Width]]></phrase>
+  <phrase title="style_property_VietXfAdvStats_Block1stWidth_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Ширина первого блока]]></phrase>
   <phrase title="style_property_VietXfAdvStats_SectionItemInfoCss_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_property_VietXfAdvStats_SectionItemInfoCss_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Item Info]]></phrase>
+  <phrase title="style_property_VietXfAdvStats_SectionItemInfoCss_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Информация раздела]]></phrase>
   <phrase title="style_property_VietXfAdvStats_SectionItemTitleCss_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="style_property_VietXfAdvStats_SectionItemTitleCss_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Item Title]]></phrase>
+  <phrase title="style_property_VietXfAdvStats_SectionItemTitleCss_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Название раздела]]></phrase>
   <phrase title="style_property_VietXfAdvStats_ThreadInfoUserNameChars_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Sometimes thread info will display username of a user. You can specify the maximum number of characters for username here. It will be truncated if the name is longer that this value. You can use 0 to disable this feature.]]></phrase>
   <phrase title="style_property_VietXfAdvStats_ThreadInfoUserNameChars_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Username's Characters]]></phrase>
   <phrase title="style_property_VietXfAdvStats_ThreadInfoWidth_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Thread Info column will contain different data depends on the type of the section. You can use 0 to let the width grow as much as possible.]]></phrase>
@@ -52,11 +52,11 @@
   <phrase title="style_property_VietXfAdvStats_UserNameWidth_description_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[You can use 0 to let the width grow as much as possible.]]></phrase>
   <phrase title="style_property_VietXfAdvStats_UserNameWidth_master" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Username's Width]]></phrase>
   <phrase title="VietXfAdvStats" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Расширенная статистика]]></phrase>
-  <phrase title="VietXfAdvStats_item_limit" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Item Limit]]></phrase>
-  <phrase title="VietXfAdvStats_lowercase_message" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[message]]></phrase>
-  <phrase title="VietXfAdvStats_lowercase_messages" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[messages]]></phrase>
-  <phrase title="VietXfAdvStats_lowercase_point" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[point]]></phrase>
-  <phrase title="VietXfAdvStats_lowercase_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[points]]></phrase>
+  <phrase title="VietXfAdvStats_item_limit" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Лимит тем]]></phrase>
+  <phrase title="VietXfAdvStats_lowercase_message" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Сообщение]]></phrase>
+  <phrase title="VietXfAdvStats_lowercase_messages" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Сообщения]]></phrase>
+  <phrase title="VietXfAdvStats_lowercase_point" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Очко]]></phrase>
+  <phrase title="VietXfAdvStats_lowercase_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Очки]]></phrase>
   <phrase title="VietXfAdvStats_lowercase_time" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[time]]></phrase>
   <phrase title="VietXfAdvStats_lowercase_times" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[times]]></phrase>
   <phrase title="VietXfAdvStats_lowercase_view" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[view]]></phrase>
@@ -81,7 +81,7 @@
   <phrase title="VietXfAdvStats_section_users_top_poorest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Баллы (-)]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_posters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Активные]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_richest" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Баллы (+)]]></phrase>
-  <phrase title="VietXfAdvStats_section_users_top_spent_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Top Spent In Day]]></phrase>
+  <phrase title="VietXfAdvStats_section_users_top_spent_in_day" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Топ потраченых]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_starters" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Авторы]]></phrase>
   <phrase title="VietXfAdvStats_section_users_top_trophy_points" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Трофеи]]></phrase>
   <phrase title="VietXfAdvStats_update_interval" addon_id="VietXfAdvStats" version_id="1" version_string="1.0.0"><![CDATA[Интервал обновления (в секундах)]]></phrase>
